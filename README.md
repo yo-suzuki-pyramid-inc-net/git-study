@@ -5,6 +5,10 @@ git-study
 ```
 git clone https://github.com/yo-suzuki-pyramid-inc-net/git-study.git -b develop
 ```
+- SSHでアクセスする場合は
+```
+git clone git@github.com/yo-suzuki-pyramid-inc-net/git-study.git -b develop
+```
 
 - 各自でPushを行うため、リモートリポジトリを切り替えます
 ```
@@ -18,8 +22,4 @@ git remote remove origin
 - リモートリポジトリを作成した自分のgithubものに変更します
 ```
 git remote add origin https://github.com/<アカウント>/git-study.git
-```
-- SSHでアクセスする場合は
-```
-git clone git@github.com/yo-suzuki-pyramid-inc-net/git-study.git
 ```

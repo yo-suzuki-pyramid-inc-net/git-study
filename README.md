@@ -23,3 +23,5 @@ git remote remove origin
 ```
 git remote add origin https://github.com/<アカウント>/git-study.git
 ```
+- これでPush先が自分のgithubリポジトリに切り替わりました。  
+以降はPushしてもだれにも影響を与えませんので、いろいろ試してみてください。

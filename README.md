@@ -23,5 +23,9 @@ git remote remove origin
 ```
 git remote add origin https://github.com/<アカウント>/git-study.git
 ```
+- ソースツリーの場合は以下のように [リポジトリ]-[リポジトリ設定]-[リモートタブ]からoriginを選択して編集する
+
+![](img/repo_setting.png)
+![](img/repo_remote.png)
 - これでPush先が自分のgithubリポジトリに切り替わりました。  
 以降はPushしてもだれにも影響を与えませんので、いろいろ試してみてください。

@@ -23,3 +23,4 @@ git remote remove origin
 ```
 git remote add origin https://github.com/<アカウント>/git-study.git
 ```
+コンフリクトがあった場合はどうなるか？

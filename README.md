@@ -29,3 +29,4 @@ git remote add origin https://github.com/<アカウント>/git-study.git
 ![](img/repo_remote.png)
 - これでPush先が自分のgithubリポジトリに切り替わりました。  
 以降はPushしてもだれにも影響を与えませんので、いろいろ試してみてください。
+test
